@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Vanessa Vieira dos Santos, tenho 29 anos e moro em São Paulo. 
+Me chamo Vanessa Vieira dos Santos, tenho 30 anos e moro em São Paulo. 
 Concluí o curso técnico de FullStack Developer. 
 Atualmente, estou cursando Ciência da Computação na UBS(Centro Universitário Braz Cubas).
 
