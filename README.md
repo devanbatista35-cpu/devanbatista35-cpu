@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vanessa Vieira dos Santos
+# 👩🏻‍💻 Vanessa Batista de Freitas
 
 **`Desenvolvedora FullStack`**
 
