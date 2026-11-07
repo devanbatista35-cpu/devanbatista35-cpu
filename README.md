@@ -7,9 +7,9 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação** no Centro Universitário Braz Cubas (Mogi das Cruzes - SP)
-- 💻 Desenvolvedor **Full-Stack**, com interesse nas áreas de **Back-end** e **Sistemas Embarcados**
+- 💻 Desenvolvedora **Full-Stack**, com interesse nas áreas de **Back-end** e **Sistemas Embarcados**
 - 🔧 Gosto de entender como as coisas funcionam por baixo dos panos, do banco de dados ao hardware
-- 📚 Leitora assíduo e apaixonada por música
+- 📚 Leitora assídua e apaixonada por música
 - 🌱 Sempre estudando e evoluindo como desenvolvedor
 
 ---
